@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://dimosthenes.github.io
+title: dimosthenes
+tagline: evolve through
+description: posts regarding the evolution of thoughts, idead, technology and everything that can be pushed a step further. <br /><br />considerations over any kind of emergence ...
+paginate: 5
